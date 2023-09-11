@@ -4,7 +4,8 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luke0126&count_private=true&show_icons=true&theme=radical&)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=luke0126)](https://solved.ac/luke0126)<br/>
+
 <!--
 **luke0126/luke0126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
