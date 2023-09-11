@@ -1,10 +1,14 @@
 ### 안녕하세요 👋
 
-<a align="center" href="https://www.instagram.com/luke_0126/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-</a>
+<div align="center">
+	<a href="https://www.instagram.com/luke_0126/" target="_blank">
+  	<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+	</a>
+</div>
 
-<h2 align="center"> 🛠 Tech Stack 🛠 </h2>
+
+
+<h2 align="start"> 🛠 Tech Stack 🛠 </h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=React&logoColor=white" />
