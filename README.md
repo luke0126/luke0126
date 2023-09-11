@@ -4,6 +4,8 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
 
+<h2 align="center"> 🛠 Tech Stack 🛠 </h2>
+
 <div align="center">
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
