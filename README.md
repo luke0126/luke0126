@@ -8,7 +8,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luke0126/orgs=carrier-sherpa,Team-MSPL)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luke0126&layout=compact&count_private=true)](https://github.com/luke0126/github-readme-stats)
+[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=franky47&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/luke0126/github-readme-stats)
 
 <!--
 **luke0126/luke0126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
