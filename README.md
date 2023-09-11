@@ -10,17 +10,18 @@
 
 <h2 align="start"> 🛠 Tech Stack 🛠 </h2>
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+</div>
+<div>
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
  	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
- 
 </div>
 
 
