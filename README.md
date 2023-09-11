@@ -1,6 +1,6 @@
 ### 안녕하세요 👋
 
-<a href="https://www.instagram.com/luke_0126/" target="_blank">
+<a align="center" href="https://www.instagram.com/luke_0126/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
 
