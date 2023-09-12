@@ -25,8 +25,10 @@
 </div>
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=luke0126)](https://solved.ac/luke0126)<br/>
-
+<br>
+<div style="display:flex; flex-direction:row;">
+	[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=luke0126)](https://solved.ac/luke0126)<br/>
+</div>
 
 
 
